@@ -99,10 +99,3 @@ Machine learning project that analyzes customer data to identify patterns associ
 
 ---
 
-## 📚 Currently Learning
-
-```text
-📊 Data Science       ███████████████░░░░░
-🤖 Machine Learning   ██████████████░░░░░░
-🧠 Deep Learning      ███████████░░░░░░░░░
-🌐 Web Development    ██████████░░░░░░░░░░
