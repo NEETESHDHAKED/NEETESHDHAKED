@@ -142,23 +142,15 @@ Machine learning project that analyzes customer data to identify patterns associ
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NEETESHDHAKED&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NEETESHDHAKED&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEETESHDHAKED&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+
 
 ---
 
-## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NEETESHDHAKED&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
